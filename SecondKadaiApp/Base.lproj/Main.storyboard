@@ -24,8 +24,8 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Wcr-ID-UhV">
-                                <rect key="frame" x="277" y="141" width="46" height="30"/>
-                                <state key="normal" title="Button"/>
+                                <rect key="frame" x="263" y="141" width="75" height="30"/>
+                                <state key="normal" title="こんにちは"/>
                                 <connections>
                                     <segue destination="Ita-5v-eN9" kind="show" id="qoQ-Yu-B8Z"/>
                                 </connections>
