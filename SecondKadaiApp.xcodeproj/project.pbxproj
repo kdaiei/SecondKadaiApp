@@ -12,6 +12,7 @@
 		249353361D50A2430033FE0B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 249353341D50A2430033FE0B /* Main.storyboard */; };
 		249353381D50A2430033FE0B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 249353371D50A2430033FE0B /* Assets.xcassets */; };
 		2493533B1D50A2430033FE0B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 249353391D50A2430033FE0B /* LaunchScreen.storyboard */; };
+		249353431D50A5490033FE0B /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249353421D50A5490033FE0B /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		249353371D50A2430033FE0B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2493533A1D50A2430033FE0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2493533C1D50A2430033FE0B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		249353421D50A5490033FE0B /* ResultViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				249353301D50A2430033FE0B /* AppDelegate.swift */,
 				249353321D50A2430033FE0B /* ViewController.swift */,
 				249353341D50A2430033FE0B /* Main.storyboard */,
+				249353421D50A5490033FE0B /* ResultViewController.swift */,
 				249353371D50A2430033FE0B /* Assets.xcassets */,
 				249353391D50A2430033FE0B /* LaunchScreen.storyboard */,
 				2493533C1D50A2430033FE0B /* Info.plist */,
@@ -137,6 +140,7 @@
 			files = (
 				249353331D50A2430033FE0B /* ViewController.swift in Sources */,
 				249353311D50A2430033FE0B /* AppDelegate.swift in Sources */,
+				249353431D50A5490033FE0B /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
